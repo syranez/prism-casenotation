@@ -16,7 +16,7 @@ The syntax of a PRISM Case Notation is shown on http://www.washingtonpost.com/wp
 
 ## Usage
 
-    var PrismCaseNotation = request("prism-casenotation");
+    var PrismCaseNotation = require("prism-casenotation");
 
     var yourPersonalCaseNotation = "...";
     var caseNotation = PrismCaseNotation(yourPersonalCaseNotation);
