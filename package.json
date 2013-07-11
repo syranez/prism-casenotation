@@ -1,0 +1,22 @@
+{
+  "name": "prism-casenotation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "buster test"
+  },
+  "author": "Michael Nowack <syranez@minaga-church.de> (https://github.com/syranez)",
+  "license": "MIT",
+  "description": "A PRISM Case Notation parser.",
+  "devDependencies": {
+    "buster": "~0.6.2"
+  },
+  "readmeFilename": "README.markdown",
+  "repository": "git@github.com:syranez/prism-casenotation.git",
+  "keywords": [
+    "prism"
+  ]
+}
